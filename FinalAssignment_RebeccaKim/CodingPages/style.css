@@ -1,0 +1,86 @@
+.container{
+    /* border: black 2px solid; */
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.headerTop{
+    background-color: #748C4E;
+    /* border: red 2px dotted; */
+    color: white;
+    margin-bottom: 10px;
+    padding: 20px 0 20px 10px;
+}
+
+.logo{
+    width: 7%;
+    margin-left: 50px;
+}
+
+.quote{
+    width: 25%;
+    margin-left: 30px;
+}
+
+#menubar {
+    /* border: green 2px dotted; */
+    border: #7DA58E 2px solid;
+    margin-bottom: 10px;
+    padding: 15px 0 15px 0;
+}
+
+.menuTitle {
+    margin: 0 20px 0 20px;
+    color: #261713;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#menucontent{
+    /* border: orange 2px dotted; */
+}
+
+.text{
+    display: none;
+    max-width: 800px;
+    text-align: center;
+    margin: auto;
+}
+/* Page header home/about/tutorials/content */
+h1{
+    font-size: 80px;
+    margin: 10px 20px 15px 20px;
+    color: white;
+    background-color: #668375;
+}
+
+video{
+    margin: 0 0 10px 0;
+}
+/* Header for posts */
+h2{
+    font-size: 25px;
+}
+/* Summary text */
+p1{
+    font-size: 18px;
+}
+/* bolded date */
+b{
+    color: #668375;
+}
+
+.bottomNav{
+    /* border: purple 2px dotted; */
+    background-color: rebeccapurple;
+    color: white;
+    padding: 10px 5px 10px 5px;
+}
+
+#bottomcontent{
+    list-style-type: none;
+    font-size: 18px;
+}
